@@ -69,7 +69,7 @@ Temos também a seção de contatos, no qual o usuário pode estar entrando em c
     <img src= "imgs/Secoes_Pagina/Secao_Contato.png">
 </div>
 
-O site ele se ajusta a diferentes tamanhos de tela também, como para computadores, tablets e celulares:
+O site se ajusta a diferentes tamanhos de tela também, como para computadores, tablets e celulares:
 
 <div>
     <img src= "imgs/Secoes_Pagina/Responsivo1.png">
